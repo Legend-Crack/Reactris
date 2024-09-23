@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tetris/static/css/main.f855e6bc.css",
+    "main.js": "/tetris/static/js/main.ecd35a63.js",
+    "index.html": "/tetris/index.html",
+    "main.f855e6bc.css.map": "/tetris/static/css/main.f855e6bc.css.map",
+    "main.ecd35a63.js.map": "/tetris/static/js/main.ecd35a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ecd35a63.js"
+  ]
+}
